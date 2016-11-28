@@ -1,0 +1,7 @@
+td {
+    width: 300px;
+    height: 60px;
+    border: 1px solid black;
+    box-sizing: border-box;
+    text-align: center;
+}
